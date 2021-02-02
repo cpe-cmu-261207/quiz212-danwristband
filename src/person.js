@@ -1,10 +1,7 @@
 function person(props) {
   const { personlist } = props;
   return (
-    // <div className="tattoo-item">
-    //     <img src={tattoo.thumbnailUrl} onClick={() => onTattooClick(tattoo)} />
-    //     <h4>{tattoo.title}</h4>
-    // </div>
+    
 
     <table class="table is-bordered mb-3">
       <tbody>
